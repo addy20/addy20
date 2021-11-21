@@ -89,10 +89,6 @@
 <img src="https://readme-jokes.vercel.app/api/?username=addy20&theme=merko" alt="Jokes Card" />
 </p>
 
-
-### Thanks for visiting my profile 🙏
-![d](https://visitor-badge.laobi.icu/badge?page_id=addy20)
-
-
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<p align="center">
+    <img src="https://vcci.org/wp-content/uploads/2020/09/pagebanner-thanks-visitor.jpg">    
+</p>

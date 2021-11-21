@@ -32,7 +32,7 @@
 | URL      |
 | ----------- |
 | [Python-Cheatsheet](https://github.com/gto76/python-cheatsheet)     |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
+| [Java-Cheatsheet](https://github.com/yungnickyoung/Java-Cheatsheet)         |
 | [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)         |
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     | |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
